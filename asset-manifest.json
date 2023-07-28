@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sneha-1107/textutiles/static/css/main.073c9b0a.css",
+    "main.js": "/Sneha-1107/textutiles/static/js/main.589a8fce.js",
+    "index.html": "/Sneha-1107/textutiles/index.html",
+    "main.073c9b0a.css.map": "/Sneha-1107/textutiles/static/css/main.073c9b0a.css.map",
+    "main.589a8fce.js.map": "/Sneha-1107/textutiles/static/js/main.589a8fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.589a8fce.js"
+  ]
+}
